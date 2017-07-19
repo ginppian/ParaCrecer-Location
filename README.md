@@ -12,7 +12,7 @@ Para Crecer Location
 	Para realizar el siguiente sistema tendremos dos opciones de stack según mi experiencia personal:
 </p>
 
-* Relacional
+<b>Relacional</b>
 
 <ol>
 	<li>
