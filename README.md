@@ -59,6 +59,6 @@ Para Crecer Location
 	Entramos a <a href="https://firebase.google.com">Firebase</a> con nuestra cuenta de Google.
 </p>
 
-<p align="justify">
+<p align="center">
 	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img1.png" width="680" height="369">
 </p>
