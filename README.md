@@ -62,3 +62,23 @@ Para Crecer Location
 <p align="center">
 	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img1.png" width="680" height="369">
 </p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img2.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img3.png" width="680" height="369">
+</p>
+
+<p align="justify">
+	A continuación nos pregunta en que plataforma crearemos el proyecto y nos da unas credenciales que posteriormente asociaremos.
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img4.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img5.png" width="680" height="369">
+</p>
