@@ -102,3 +102,25 @@ Para Crecer Location
 <p align="center">
 	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img9.png" width="680" height="369">
 </p>
+
+<b>Agregar Datos</b>
+
+<p align="justify">
+	Agregamos un <i>Usuario</i> y a continuación una <i>latitud</i> y una <i>longitud</i> para ese usuario.
+</p>
+
+<p align="justify">
+	Agregamos la <i>latitud</i> y la <i>longitud</i> a ese usuario pulsando el boton <i>más</i>, en este caso la ubicación de Puebla. Así agregaremos más ciudades.
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img10.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img11.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img12.png" width="680" height="369">
+</p>
