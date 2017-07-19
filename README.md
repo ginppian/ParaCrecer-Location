@@ -29,20 +29,20 @@ Para Crecer Location
 		<p align="justify">
 			AJAX
 		</p>
-	</li>
-		<li>
-		<p align="justify">
-			JQuery
-		</p>
-	</li>
 </ol>
 
-* No Relacional
+<b>No Relacional</b>
 
 <ol>
 	<li>
 		<p align="justify">
-			PHP
+			Firebase
+		</p>
+	</li>
+		</li>
+		<li>
+		<p align="justify">
+			JQuery
 		</p>
 	</li>
 </ol>
