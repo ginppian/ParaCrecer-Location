@@ -60,5 +60,5 @@ Para Crecer Location
 </p>
 
 <p align="justify">
-	<img src="">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img1.png" width="680" height="369">
 </p>
