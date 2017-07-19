@@ -50,7 +50,7 @@ Para Crecer Location
 ## Desarrollo
 
 <p align="juatify">
-	Para este caso tomamos el <i>Stack</i> <b>No Relacional</b> 
+	Para este caso tomaremos el <i>Stack</i> <b>No Relacional</b> 
 </p>
 
 * Firebase
@@ -72,7 +72,7 @@ Para Crecer Location
 </p>
 
 <p align="justify">
-	A continuación nos pregunta en que plataforma crearemos el proyecto y nos da unas credenciales que posteriormente asociaremos.
+	A continuación nos pregunta en que plataforma por el momento no usaremos esta opción pero son nuestras credenciales que posteriormente asociaremos al proyecto.
 </p>
 
 <p align="center">
