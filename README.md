@@ -106,11 +106,8 @@ Para Crecer Location
 <b>Agregar Datos</b>
 
 <p align="justify">
-	Agregamos un <i>Usuario</i> y a continuación una <i>latitud</i> y una <i>longitud</i> para ese usuario.
-</p>
+	Agregamos un <i>Usuario</i> y a continuación una <i>latitud</i> y una <i>longitud</i> para ese usuario. Agregamos la <i>latitud</i> y la <i>longitud</i> a ese usuario pulsando el boton <i>más</i>, en este caso la ubicación de Puebla. Así agregaremos más ciudades.
 
-<p align="justify">
-	Agregamos la <i>latitud</i> y la <i>longitud</i> a ese usuario pulsando el boton <i>más</i>, en este caso la ubicación de Puebla. Así agregaremos más ciudades.
 </p>
 
 <p align="center">
