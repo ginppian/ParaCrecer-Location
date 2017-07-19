@@ -47,3 +47,18 @@ Para Crecer Location
 	</li>
 </ol>
 
+## Desarrollo
+
+<p align="juatify">
+	Para este caso tomamos el <i>Stack</i> <b>No Relacional</b> 
+</p>
+
+* Firebase
+
+<p align="justify">
+	Entramos a <a href="https://firebase.google.com">Firebase</a> con nuestra cuenta de Google.
+</p>
+
+<p align="justify">
+	<img src="">
+</p>
