@@ -135,6 +135,29 @@ Para Crecer Location
 
 <b>Creamos la estructura HTML</b>
 
+<p align="justify">
+	Para incrustar el mapa nos basaremos en la documentación oficial de <a href="https://developers.google.com">Google Maps API</a>
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img15.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img16.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img17.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img18.png" width="680" height="369">
+</p>
+
+<p align="justify">
+	Y seguiremos las instrucciones para incrustar un mapa. La primera parte es crear la estructura HTML. Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i>.
+</p>
 ## Fuente
 
 <p align="justify">
