@@ -208,7 +208,7 @@ Para Crecer Location
 </p>
 
 <p align="justify">
-	Des´pués de éso abriremos <i>INDEX.HTML</i> en un navegador y tendremos que visualizar nuestro <i>MAPA</i>.
+	Después de éso abriremos <i>INDEX.HTML</i> en un navegador y tendremos que visualizar nuestro <i>MAPA</i>.
 </p>
 
 <p align="center">
