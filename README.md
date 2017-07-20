@@ -163,6 +163,88 @@ Para Crecer Location
 	Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i> para hacer la programación de <i>JAVASCRIPT</i> más simple.
 </p>
 
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img24.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img25.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img20.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img21.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img22.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img23.png" width="680" height="369">
+</p>
+
+<p align="justify">
+	Nos apoyaremos del código que viene en la documentación de Google.
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img26.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img27.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img28.png" width="680" height="369">
+</p>
+
+<p align="justify">
+	El último paso que nos pide <i>Google Maps</i> es crear una <i>CLAVE</i>. Para hacer eso nos dirigimos a <i>GOOGLE CONSOLE API</i> obtenemos la llave, copiamos el código de <i>JAVASCRIPT ASINCRONO</i> (el cual permitirá al resto del navegador procesar el resto de la página mientras se carga el <i>API</i>) y le incrustamos nuestra <i>CLAVE</i>.
+</p>
+
+<p align="justify">
+	Procedemos a abrir <i>INDEX.HTML</i> en un navegador y tendremos que visualizar nuestro <i>MAPA</i>.
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img29.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img30.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img31.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img32.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img33.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img34.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img35.png" width="680" height="369">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img36.png" width="680" height="369">
+</p>
+
+
+
 ## Fuente
 
 <p align="justify">
