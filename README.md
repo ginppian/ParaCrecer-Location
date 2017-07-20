@@ -122,7 +122,7 @@ Para Crecer Location
 </p>
 
 <p align="justify">
-	Para agregar otro <i>Usuario</i> pulsamos en el signo más.
+	Para agregar otro <i>Usuario</i> pulsamos en el signo más. Las coordenadas las podemos sacar directamente de <a href="https://www.google.com.mx/maps">Google Maps</a> buscando una dirección y finjandonos en la URL. 
 </p>
 
 <p align="center">
@@ -132,3 +132,5 @@ Para Crecer Location
 <p align="center">
 	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img14.png" width="680" height="369">
 </p>
+
+
