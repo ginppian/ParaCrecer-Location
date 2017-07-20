@@ -156,10 +156,16 @@ Para Crecer Location
 </p>
 
 <p align="justify">
-	Y seguiremos las instrucciones para incrustar un mapa. La primera parte es crear la estructura HTML. Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i>.
+	Y seguiremos las instrucciones para incrustar un mapa. El primer paso es crear la estructura <i>HTML</i>. 
+	Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i>.
 </p>
+
+<p align="justify">
+	Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i> para hacer la programación de <i>JAVASCRIPT</i> más simple.
+</p>
+
 ## Fuente
 
 <p align="justify">
-	<a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">Google Maps API</a>
+	<a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">Google Maps API</a>.
 </p>
