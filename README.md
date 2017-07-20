@@ -157,7 +157,6 @@ Para Crecer Location
 
 <p align="justify">
 	Y seguiremos las instrucciones para incrustar un mapa. El primer paso es crear la estructura <i>HTML</i>. 
-	Crearemos 3 archivos básicos: <i>index.html, estilos.css, app.js</i>. Así como instalaremos el <i>FRAMEWORK JQUERY</i> a través de <i>NPM</i> en la consola de <i>GIT SHELL</i>.
 </p>
 
 <p align="justify">
