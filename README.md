@@ -243,7 +243,9 @@ Para Crecer Location
 	<img src="https://github.com/ginppian/ParaCrecer-Location/blob/master/img/img36.png" width="680" height="369">
 </p>
 
-
+<p align="justify">
+	En <i>APP.JS</i> nuestra función <i>INITMAP</i> esta afuera de <i>DOCUMENT READY</i> porque la función asincrona de <i>GOOGLE MAPS</i> se encarga de mandarla a llamar, para el inicio de la <i>APP WEB</i>.
+</p>
 
 ## Fuente
 
