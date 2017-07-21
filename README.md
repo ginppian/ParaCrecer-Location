@@ -266,7 +266,92 @@ $.ajax({
 console.log(result);
 ```
 
+```
 
+$(document).ready(function(){
+  window.setInterval(getAndDraw, 4000);
+});
+
+/*
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBjE9Cr6iuDbG8x57_CcJ-9WDcheYmV62Q",
+    authDomain: "mapas-50514.firebaseapp.com",
+    databaseURL: "https://mapas-50514.firebaseio.com",
+    projectId: "mapas-50514",
+    storageBucket: "mapas-50514.appspot.com",
+    messagingSenderId: "65462666897"
+  };
+  firebase.initializeApp(config);
+  */
+  var url = "https://pcubicacion.firebaseio.com/usuarios.json";
+  var result = {};
+
+  function getAndDraw(){
+
+    $.when( 
+
+      $.ajax({
+        type: "GET",
+        contentType: "application/json; charset=utf-8",
+        url: url,
+        async: false,
+        dataType: "json",
+        success: function (data){
+        //console.log(data); 
+        result = data;
+      },
+    })
+
+      ).then(function( result, textStatus, jqXHR ) {
+
+        console.log('result'+result);
+        console.log('textStatus'+textStatus);
+        console.log('jqXHR'+jqXHR);
+        console.log('jqXHR.status'+jqXHR.status);
+        var s = "hola";
+
+        updateMapa(s);
+
+      });
+
+
+    }
+
+    async function updateMapa(s){
+      console.log('s: '+s);
+      var LATITUD = Math.floor((Math.random() * 20) + 1);
+
+		//google.maps.event.trigger(map, 'resize');
+
+    var uluru = {lat: LATITUD, lng: LATITUD};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: uluru
+    });
+
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+
+
+  function initMap(){
+
+    var uluru = {lat: 15.3000, lng: 101.044};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: uluru
+    });
+
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+
+  }
+```
 ## Fuente
 
 <p align="justify">
