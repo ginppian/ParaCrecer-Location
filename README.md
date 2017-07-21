@@ -247,7 +247,7 @@ Para Crecer Location
 	En <i>APP.JS</i> nuestra función <i>INITMAP</i> esta afuera de <i>DOCUMENT READY</i> porque la función asincrona de <i>GOOGLE MAPS</i> se encarga de mandarla a llamar, para el inicio de la <i>APP WEB</i>.
 </p>
 
-```
+```javascript
 var url = "https://pcubicacion.firebaseio.com/usuarios.json";
 var result = {};
 
