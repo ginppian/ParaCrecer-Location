@@ -248,6 +248,7 @@ Para Crecer Location
 </p>
 
 ´´´
+
 var url = "https://pcubicacion.firebaseio.com/usuarios.json";
 var result = {};
 
@@ -264,6 +265,7 @@ $.ajax({
 });
 
 console.log(result);
+
 ´´´
 
 
